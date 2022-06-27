@@ -1,0 +1,50 @@
+.container {
+  width: 500px;
+  height: 800px;
+  margin: auto;
+
+  border: 1px solid green;
+  border-radius: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  text-align: center;
+  margin-top: 30px;
+}
+h1 {
+  /* font-family: "Staatliches", cursive; */
+}
+table {
+  margin: auto;
+}
+input {
+  /* margin-top: 10px; */
+  border-radius: 21px;
+  border: 5px solid #244624;
+  font-size: 24px;
+  height: 65px;
+  width: 440px;
+}
+button {
+  border-radius: 20px;
+  font-size: 30px;
+  background: #978fa0;
+  width: 102px;
+  height: 70px;
+  margin: 6px;
+}
+p #clearLog {
+  text-decoration: none;
+  font-size: 25px;
+  color: blue;
+  cursor: pointer;
+}
+
+#historyLog {
+  border: 4px solid black;
+  border-radius: 21px;
+  font-size: 20px;
+  margin: auto;
+  text-align: center;
+  height: 200px;
+  width: 456px;
+}
